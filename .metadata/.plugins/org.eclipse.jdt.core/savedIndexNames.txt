@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+C:\Users\rofer\workspace\.metadata\.plugins\org.eclipse.jdt.core
+2702459774.index
+2174185088.index
